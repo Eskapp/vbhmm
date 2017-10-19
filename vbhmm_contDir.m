@@ -1,6 +1,6 @@
 function [net,astar,bstar,pistar,u,v,wa,wb,wpi,Alph_init]= vbhmm_contDir(data,M,K,Alph_init,its,tol,net)
 
-%Variational Bayesian Dirichlet-based Hidden Markov Model
+% Variational Bayesian Dirichlet-based Hidden Markov Model - Learning function
 
 %% DEBUG -------------------------
 % M = 2;
